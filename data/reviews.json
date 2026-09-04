@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "prod-1",
+    "author": "Marcus Brody",
+    "rating": 5,
+    "title": "Unbelievable sound stage and ANC",
+    "comment": "I've tried Sony and Bose, and these headphones are genuinely on par if not better in terms of build quality and natural bass. Battery life lasted me an entire transatlantic trip without recharging.",
+    "verified": true,
+    "date": "2026-08-15T14:22:00.000Z"
+  },
+  {
+    "id": "rev-2",
+    "productId": "prod-1",
+    "author": "Elena Rostova",
+    "rating": 5,
+    "title": "Extremely comfortable for long work days",
+    "comment": "The memory foam earpads don't clamp too tightly on my glasses. The microphone clarity on Zoom calls is also crystal clear.",
+    "verified": true,
+    "date": "2026-08-28T09:10:00.000Z"
+  },
+  {
+    "id": "rev-3",
+    "productId": "prod-2",
+    "author": "David Chen",
+    "rating": 5,
+    "title": "Gorgeous screen and premium feel",
+    "comment": "The titanium bezel gives this watch a luxurious appearance. GPS lock is fast during my morning runs, and the battery genuinely lasts almost a week.",
+    "verified": true,
+    "date": "2026-08-19T17:40:00.000Z"
+  },
+  {
+    "id": "rev-4",
+    "productId": "prod-5",
+    "author": "Samantha Reed",
+    "rating": 5,
+    "title": "Timeless leather patina",
+    "comment": "Smells amazing right out of the box. High quality thick leather and sturdy zippers. Fits into the overhead bin easily.",
+    "verified": true,
+    "date": "2026-07-30T11:05:00.000Z"
+  },
+  {
+    "id": "rev-5",
+    "productId": "prod-8",
+    "author": "Liam Vance",
+    "rating": 5,
+    "title": "Elevated my morning brew routine",
+    "comment": "Aesthetic masterpiece on my kitchen counter. Ceramic distributes heat evenly resulting in super clean floral coffee extractions.",
+    "verified": true,
+    "date": "2026-08-12T08:30:00.000Z"
+  },
+  {
+    "id": "rev-6",
+    "productId": "prod-14",
+    "author": "Chloe Martin",
+    "rating": 5,
+    "title": "Visible difference within 5 days",
+    "comment": "Absorbs immediately without any sticky residue. My skin feels plumper and makeup glides on flawlessly over it.",
+    "verified": true,
+    "date": "2026-08-24T19:15:00.000Z"
+  }
+]

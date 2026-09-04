@@ -1,0 +1,30 @@
+[
+  {
+    "code": "SAVE10",
+    "type": "percentage",
+    "value": 10,
+    "description": "10% off entire order",
+    "minSpend": 0
+  },
+  {
+    "code": "AURA20",
+    "type": "percentage",
+    "value": 20,
+    "description": "20% off orders over $75",
+    "minSpend": 75
+  },
+  {
+    "code": "FREESHIP",
+    "type": "free_shipping",
+    "value": 0,
+    "description": "Free standard shipping",
+    "minSpend": 30
+  },
+  {
+    "code": "HACKFEST",
+    "type": "fixed",
+    "value": 25,
+    "description": "$25 off orders over $100",
+    "minSpend": 100
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "ORD-2026-6634",
+    "customer": {
+      "fullName": "Test Buyer",
+      "email": "test.buyer@example.com",
+      "phone": "+1 555-111-2222"
+    },
+    "shippingAddress": {
+      "street": "123 Main St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97201",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Aura Ultra Wireless ANC Headphones",
+        "price": 199.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "shippingMethod": "standard",
+    "subtotal": 199.99,
+    "discount": 20,
+    "shippingCost": 0,
+    "tax": 14.4,
+    "total": 194.39,
+    "couponCode": "SAVE10",
+    "paymentMethod": "card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "trackingSteps": [
+      {
+        "status": "Order Placed",
+        "time": "2026-09-04T13:27:06.285Z",
+        "completed": true
+      },
+      {
+        "status": "Processing",
+        "time": "2026-09-04T13:27:06.303Z",
+        "completed": true
+      },
+      {
+        "status": "Shipped",
+        "time": "2026-09-04T13:27:06.303Z",
+        "completed": true
+      },
+      {
+        "status": "Out for Delivery",
+        "time": null,
+        "completed": false
+      },
+      {
+        "status": "Delivered",
+        "time": null,
+        "completed": false
+      }
+    ],
+    "carrier": "Standard Ground Service",
+    "trackingNumber": "TRK-661304581",
+    "createdAt": "2026-09-04T13:27:06.285Z"
+  },
+  {
+    "id": "ORD-2026-9041",
+    "customer": {
+      "fullName": "Sarah Jenkins",
+      "email": "sarah.j@example.com",
+      "phone": "+1 (555) 234-5678"
+    },
+    "shippingAddress": {
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "OR",
+      "zip": "97477",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Aura Ultra Wireless ANC Headphones",
+        "price": 199.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "id": "prod-12",
+        "name": "Insulated Stainless Steel Gym Flask 32oz",
+        "price": 38,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "shippingMethod": "standard",
+    "subtotal": 237.99,
+    "discount": 23.8,
+    "shippingCost": 0,
+    "tax": 17.14,
+    "total": 231.33,
+    "couponCode": "SAVE10",
+    "paymentMethod": "card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "trackingSteps": [
+      {
+        "status": "Order Placed",
+        "time": "2026-09-02T10:15:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "Processing",
+        "time": "2026-09-02T14:30:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "Shipped",
+        "time": "2026-09-03T09:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "Out for Delivery",
+        "time": null,
+        "completed": false
+      },
+      {
+        "status": "Delivered",
+        "time": null,
+        "completed": false
+      }
+    ],
+    "carrier": "FedEx Express",
+    "trackingNumber": "FX-8930491024",
+    "createdAt": "2026-09-02T10:15:00.000Z"
+  },
+  {
+    "id": "ORD-2026-8812",
+    "customer": {
+      "fullName": "Alex Mercer",
+      "email": "alex.m@example.com",
+      "phone": "+1 (555) 987-6543"
+    },
+    "shippingAddress": {
+      "street": "100 Market St Suite 400",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "id": "prod-5",
+        "name": "Classic Vintage Leather Weekender Bag",
+        "price": 185,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "shippingMethod": "express",
+    "subtotal": 185,
+    "discount": 0,
+    "shippingCost": 15,
+    "tax": 16,
+    "total": 216,
+    "couponCode": null,
+    "paymentMethod": "upi",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "trackingSteps": [
+      {
+        "status": "Order Placed",
+        "time": "2026-09-04T08:00:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "Processing",
+        "time": "2026-09-04T11:20:00.000Z",
+        "completed": true
+      },
+      {
+        "status": "Shipped",
+        "time": null,
+        "completed": false
+      },
+      {
+        "status": "Out for Delivery",
+        "time": null,
+        "completed": false
+      },
+      {
+        "status": "Delivered",
+        "time": null,
+        "completed": false
+      }
+    ],
+    "carrier": "UPS Ground",
+    "trackingNumber": "UPS-4491029141",
+    "createdAt": "2026-09-04T08:00:00.000Z"
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Aura Ultra Wireless ANC Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "rating": 4.9,
+    "reviewCount": 142,
+    "stock": 27,
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Experience true studio-grade sound with 40mm titanium drivers and active hybrid noise cancellation. Features 40 hours of playtime and memory foam comfort pads.",
+    "specs": {
+      "Battery Life": "40 Hours",
+      "Bluetooth": "5.3 Multi-point",
+      "Driver Size": "40mm Dynamic",
+      "Weight": "250g",
+      "Warranty": "2 Years"
+    },
+    "tags": [
+      "audio",
+      "bluetooth",
+      "wireless",
+      "noise-cancelling"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-2",
+    "name": "Titanium Pro Smartwatch 46mm",
+    "category": "Electronics",
+    "price": 279,
+    "originalPrice": 329,
+    "rating": 4.8,
+    "reviewCount": 98,
+    "stock": 14,
+    "badge": "New Arrival",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Aerospace titanium casing with sapphire glass AMOLED display. Comprehensive health metrics including ECG, SpO2, sleep tracking, and 7-day battery life.",
+    "specs": {
+      "Display": "1.43\" AMOLED 466x466",
+      "Water Resistance": "5 ATM / 50m",
+      "Battery Life": "Up to 7 Days",
+      "Sensors": "Optical Heart Rate, SpO2, Accelerometer, Barometer",
+      "Connectivity": "Bluetooth 5.2, GPS"
+    },
+    "tags": [
+      "smartwatch",
+      "fitness",
+      "wearable",
+      "gps"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-3",
+    "name": "Minimalist Mechanical Keyboard RGB",
+    "category": "Electronics",
+    "price": 119.5,
+    "originalPrice": 149,
+    "rating": 4.7,
+    "reviewCount": 86,
+    "stock": 35,
+    "badge": "20% OFF",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Hot-swappable tactile mechanical switches with custom PBT double-shot keycaps, per-key RGB backlighting, and CNC aluminum unibody frame.",
+    "specs": {
+      "Layout": "75% Compact (84 Keys)",
+      "Switches": "Gateron Brown Tactile (Hot-swap)",
+      "Connectivity": "Tri-mode (USB-C, 2.4GHz, BT 5.0)",
+      "Battery": "4000mAh",
+      "Weight": "820g"
+    },
+    "tags": [
+      "keyboard",
+      "gaming",
+      "mechanical",
+      "rgb",
+      "desk-setup"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-4",
+    "name": "Ergonomic Vertical Precision Mouse",
+    "category": "Electronics",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "rating": 4.6,
+    "reviewCount": 63,
+    "stock": 22,
+    "badge": "Ergonomic",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Natural 57-degree vertical handshake angle relieves wrist stress. Ultra-quiet click switches with 4000 DPI high-precision optical tracking.",
+    "specs": {
+      "DPI Range": "800 - 4000 DPI",
+      "Battery Life": "Up to 4 Months",
+      "Buttons": "6 Programmable",
+      "Hand Orientation": "Right-Handed"
+    },
+    "tags": [
+      "mouse",
+      "ergonomic",
+      "wireless",
+      "office"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-5",
+    "name": "Classic Vintage Leather Weekender Bag",
+    "category": "Fashion",
+    "price": 185,
+    "originalPrice": 230,
+    "rating": 4.9,
+    "reviewCount": 110,
+    "stock": 12,
+    "badge": "Top Rated",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Full-grain vegetable-tanned Italian leather handcrafted with brass hardware, reinforced shoe compartment, and padded shoulder strap for timeless travel.",
+    "specs": {
+      "Material": "100% Full-grain Leather",
+      "Dimensions": "20\" x 11\" x 10\"",
+      "Capacity": "35 Liters",
+      "Weight": "1.8 kg"
+    },
+    "tags": [
+      "leather",
+      "travel",
+      "bag",
+      "duffel",
+      "fashion"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-6",
+    "name": "Heavyweight Oversized Cotton Hoodie",
+    "category": "Fashion",
+    "price": 75,
+    "originalPrice": 95,
+    "rating": 4.7,
+    "reviewCount": 154,
+    "stock": 45,
+    "badge": "Trending",
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "500 GSM luxury French Terry cotton with double-layer hood, drop shoulders, and pre-shrunk wash for that effortless street-ready aesthetic.",
+    "specs": {
+      "Fabric": "100% Organic French Terry Cotton",
+      "Weight": "500 GSM",
+      "Fit": "Relaxed Oversized",
+      "Care": "Machine wash cold, hang dry"
+    },
+    "tags": [
+      "apparel",
+      "hoodie",
+      "streetwear",
+      "cotton"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-7",
+    "name": "Polarized Acetate Sunglasses",
+    "category": "Fashion",
+    "price": 89,
+    "originalPrice": 120,
+    "rating": 4.8,
+    "reviewCount": 73,
+    "stock": 19,
+    "badge": "Summer Pick",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Hand-polished cellulose acetate frame with Category 3 UV400 polarized scratch-resistant lenses for glare-free optical clarity and bold style.",
+    "specs": {
+      "Lens": "UV400 Polarized TAC",
+      "Frame": "Handmade Italian Acetate",
+      "Hinges": "5-barrel stainless steel",
+      "Includes": "Hard case & microfiber cloth"
+    },
+    "tags": [
+      "sunglasses",
+      "accessories",
+      "uv-protection",
+      "eyewear"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-8",
+    "name": "Minimalist Ceramic Dripper & Server",
+    "category": "Home & Living",
+    "price": 54,
+    "originalPrice": 68,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "stock": 25,
+    "badge": "Popular",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Artisan matte ceramic pour-over cone with spiral flow channels paired with a 600ml heat-resistant borosilicate glass carafe.",
+    "specs": {
+      "Carafe Capacity": "600 ml (2-4 Cups)",
+      "Material": "Matte Glazed Ceramic + Borosilicate Glass",
+      "Filter Type": "Standard Cone Filters (02 size)",
+      "Dishwasher Safe": "Yes"
+    },
+    "tags": [
+      "coffee",
+      "pour-over",
+      "kitchen",
+      "ceramic"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-9",
+    "name": "Smart Ambient Sunrise Alarm Lamp",
+    "category": "Home & Living",
+    "price": 85,
+    "originalPrice": 105,
+    "rating": 4.6,
+    "reviewCount": 61,
+    "stock": 18,
+    "badge": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Wake up naturally with simulated sunrise illumination that gently transitions over 30 minutes, built-in ambient nature soundscapes, and wireless phone charger.",
+    "specs": {
+      "Light Modes": "Sunrise, Sunset, 16M RGB colors",
+      "Wireless Charging": "15W Qi Fast Charge",
+      "Soundscapes": "8 Soothing Sound Options",
+      "Controls": "Touch sensor + App Control"
+    },
+    "tags": [
+      "lamp",
+      "smart-home",
+      "lighting",
+      "bedroom"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-10",
+    "name": "Scented Soy Wax Candle Trio",
+    "category": "Home & Living",
+    "price": 42,
+    "originalPrice": 52,
+    "rating": 4.8,
+    "reviewCount": 115,
+    "stock": 40,
+    "badge": "Gift Favorite",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Hand-poured 100% soy wax candles infused with essential oils: Cedar & Sandalwood, Bergamot Amber, and Crisp White Pine. Cotton wicks for clean, even burns.",
+    "specs": {
+      "Burn Time": "50 Hours Each",
+      "Wax": "100% Natural Soy",
+      "Scents": "3 Signature Aromas",
+      "Vessel": "Frosted Amber Glass Jar"
+    },
+    "tags": [
+      "candles",
+      "home-decor",
+      "aromatherapy",
+      "gift"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-11",
+    "name": "Non-Slip High Density Yoga Mat",
+    "category": "Fitness & Sports",
+    "price": 64.99,
+    "originalPrice": 80,
+    "rating": 4.9,
+    "reviewCount": 134,
+    "stock": 30,
+    "badge": "Eco Choice",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "6mm ultra-cushioned biodegradable natural tree rubber with textured vegan suede surface that grips stronger the more you sweat. Includes carry strap.",
+    "specs": {
+      "Dimensions": "72\" x 26\" (183cm x 66cm)",
+      "Thickness": "6mm",
+      "Material": "Natural Tree Rubber + Vegan Suede",
+      "Weight": "2.4 kg"
+    },
+    "tags": [
+      "yoga",
+      "fitness",
+      "workout",
+      "eco-friendly"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-12",
+    "name": "Insulated Stainless Steel Gym Flask 32oz",
+    "category": "Fitness & Sports",
+    "price": 38,
+    "originalPrice": 48,
+    "rating": 4.8,
+    "reviewCount": 178,
+    "stock": 50,
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Double-wall vacuum insulated 18/8 food-grade stainless steel keeps water icy cold for 24 hours or piping hot for 12 hours. Leak-proof chug and straw lids.",
+    "specs": {
+      "Capacity": "32 oz / 950 ml",
+      "Thermal Insulation": "24h Cold / 12h Hot",
+      "Steel": "Pro-Grade 18/8 Stainless",
+      "BPA Free": "100% Certified"
+    },
+    "tags": [
+      "water-bottle",
+      "hydration",
+      "gym",
+      "outdoors"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-13",
+    "name": "Adjustable Smart Speed Jump Rope",
+    "category": "Fitness & Sports",
+    "price": 29.99,
+    "originalPrice": 39.99,
+    "rating": 4.6,
+    "reviewCount": 54,
+    "stock": 26,
+    "badge": "25% OFF",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "High-speed 360-degree ball bearings with LCD counter tracking jumps, calories burned, and workout duration. Switch between weighted cord or cordless ball mode.",
+    "specs": {
+      "Rope Length": "9.8 ft (Adjustable)",
+      "Display": "HD Backlit LCD",
+      "Bearings": "Dual 360 Steel Bearings",
+      "Modes": "Corded & Cordless Weighted"
+    },
+    "tags": [
+      "jump-rope",
+      "cardio",
+      "fitness",
+      "hiit"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-14",
+    "name": "Hydrating Botanical Face Serum 30ml",
+    "category": "Beauty & Wellness",
+    "price": 46,
+    "originalPrice": 58,
+    "rating": 4.9,
+    "reviewCount": 165,
+    "stock": 34,
+    "badge": "Staff Pick",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Multi-molecular hyaluronic acid combined with organic niacinamide, vitamin C, and centella asiatica for deep dermal hydration and a radiant glowing complexion.",
+    "specs": {
+      "Volume": "30 ml / 1.0 fl oz",
+      "Key Actives": "Hyaluronic Acid 2%, Niacinamide 5%",
+      "Skin Type": "All Skin Types / Sensitive",
+      "Cruelty-Free": "Yes, 100% Vegan"
+    },
+    "tags": [
+      "skincare",
+      "serum",
+      "beauty",
+      "organic"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "prod-15",
+    "name": "Ultra-Quiet Ultrasonic Aroma Diffuser",
+    "category": "Beauty & Wellness",
+    "price": 49.5,
+    "originalPrice": 65,
+    "rating": 4.7,
+    "reviewCount": 88,
+    "stock": 21,
+    "badge": "Wellness",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Whisper-quiet cold mist ultrasonic technology with ceramic stone cover, ambient warm glow, and auto-shutoff timer. Purifies air while dispensing calming aromas.",
+    "specs": {
+      "Tank Capacity": "300 ml",
+      "Runtime": "Up to 10 Hours",
+      "Noise Level": "< 20 dB",
+      "Coverage": "300 sq ft"
+    },
+    "tags": [
+      "aromatherapy",
+      "diffuser",
+      "wellness",
+      "relaxation"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "prod-16",
+    "name": "Rose Quartz Facial Roller & Gua Sha Set",
+    "category": "Beauty & Wellness",
+    "price": 32,
+    "originalPrice": 44,
+    "rating": 4.8,
+    "reviewCount": 121,
+    "stock": 42,
+    "badge": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "100% authentic Brazilian natural rose quartz stone toolset designed to stimulate lymphatic drainage, relieve muscle tension, and sculpt facial contours.",
+    "specs": {
+      "Stone": "100% Authentic Natural Rose Quartz",
+      "Hardware": "Silent zinc alloy reinforced frame",
+      "Includes": "Dual Roller, Heart Gua Sha, Velvet Pouch"
+    },
+    "tags": [
+      "gua-sha",
+      "facial-care",
+      "rose-quartz",
+      "skincare"
+    ],
+    "isFeatured": false
+  }
+]

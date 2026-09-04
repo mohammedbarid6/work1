@@ -1,0 +1,25 @@
+{
+  "name": "auramarket-ecommerce",
+  "version": "1.0.0",
+  "description": "Full-featured modern e-commerce web application with catalog, cart, checkout, order tracking, and admin dashboard",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-api.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "storefront",
+    "express",
+    "shopping-cart",
+    "order-tracking",
+    "admin-dashboard"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
